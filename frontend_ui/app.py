@@ -17,7 +17,7 @@ class FakeNewsDetectionApp:
             st.session_state["show_info"] = False
 
     def render_title(self):
-        st.title("Vishleshak: Fake News Detection APP")
+        st.title("Vishleshak: Fake News Detection")
 
         st.write("Enter a news article below to check if it's fake or real.")
     def get_user_input(self):
