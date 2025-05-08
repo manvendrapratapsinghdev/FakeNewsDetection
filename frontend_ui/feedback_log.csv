@@ -1,0 +1,24 @@
+title,text,prediction,feedback
+sad,sad,Fake,Correct
+ms,mps,Fake,Correct
+1,1,Fake,Incorrect
+1,1,Fake,Incorrect
+1,1,Fake,Correct
+1,1,Fake,Correct
+123,edewr,Fake,Correct
+1,1,Fake,Correct
+sd,dsf,Fake,Incorrect
+2131,123,Fake,Correct
+1,dsf,Fake,Correct
+12,2,Fake,Incorrect
+1,1,Fake,Correct
+1,1,Fake,Correct
+x**2 ,nvbvn,Fake,Correct
+x**2 ,dsad,Fake,Correct
+9,1231,Fake,Correct
+1,1,Fake,Correct
+Trump expected to announce trade agreement with United Kingdom,"Trump expected to announce trade agreement with United Kingdom
+It is the first of dozens of deals the administration wants to make with trade partners around the world.
+By Natalie Allison, Michael Birnbaum and Je",Fake,Correct
+US Supreme Court lets Trump's transgender military ban take effect,"US Supreme Court lets Trump's transgender military ban take effect
+",Fake,Correct
